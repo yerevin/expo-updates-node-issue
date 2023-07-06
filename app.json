@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "HelloWorld",
+    "slug": "expo-template-bare",
+    "version": "1.0.0",
+    "assetBundlePatterns": ["**/*"],
+    "runtimeVersion": "1.0.0",
+    "updates": {
+      "url": "http://localhost:3000/api/manifest"
+    }
+  }
+}
